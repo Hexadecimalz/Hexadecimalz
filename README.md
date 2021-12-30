@@ -1,3 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%23177873&vCenter=true&lines=%24+cat+README.md)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%24+cat+README.md)](https://git.io/typing-svg)
 # Hex | 0x48 0x65 0x78
-👋🏻 I like to learn about Linux and Ansible here. I have some small code projects that I dabble in as well. I enjoy writing documentation. I'm working toward a career in Linux. 🐧  
+👋🏻 I'm working toward a career in Linux. 🐧  
+
+Lately, I've been learning Ruby and soon diving back into Perl. I passed my RHCSA in October 2021 and I'm looking to take the RHCE exam in 2022. I like Python but for some reason Bash is my new favorite programming language. If I get any free-time between those projects, I like to work through Capture the flag (CTF) challenges for fun. 
+
+## ✉
+`echo hexadecimalz1pm2me | tr 12 @.`
