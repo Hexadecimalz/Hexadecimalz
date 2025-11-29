@@ -3,7 +3,5 @@
 
 I spent a lot of time last year getting geared up for a job working with Linux and finally got there. I'm also working with cloud platforms as well. My focus has changed as a result and I've been getting a lot more experience with Rundeck, Ansible, and working with apps in a Linux environment. Several CLI applications as well have taken my interest to make life easier. I'm not yet proficient in iTerm2, but can do some pretty cool things already with this terminal emulator. 
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimalz&layout=compact&theme=merko&hide=HTML,Visual%20Basic"/>
-
 ## ✉
 `echo hexadecimalz1pm2me | tr 12 @.`
